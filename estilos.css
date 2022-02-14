@@ -1,0 +1,173 @@
+body{
+	background: #D3D3D3;
+}
+
+/* Formatação do cabeçalho */
+#cabec{
+	margin: -10px;
+	margin-top: -27px;
+	background-color: #FFA500;
+	height: 150px;
+}
+
+#cabec h1{
+	text-align: center;
+	padding-top: 30px;
+	font-size: 40px;
+}
+
+#cabec .blog{
+	color: #FFFFFF;
+	font-family: arial, sans-serif;
+}
+
+#cabec .tec{
+	color:#696969;
+	font-family: arial, sans-serif;
+}
+
+#cabec #nav{
+	margin-left: 426px;
+	
+}
+
+
+#cabec #nav a{
+	margin: 10px;
+	padding: 10px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-size: 18px;	
+}
+
+
+#cabec #nav a:hover{
+	background-color: #FFFFFF;
+	color: #FFA500;
+	
+}
+
+/* Formatação do conteúdo */
+
+.conteudo1{
+	background-color: #FFFFFF;
+	width: 681px;
+	height: 630px;
+	margin-left: 200px; 
+}
+
+.conteudo1 h1{
+	color: #FFA500;
+	position: relative;
+	top: 20px;
+	left: 20px;
+}
+
+.conteudo1 p{
+	position: relative;
+	left: 23px;
+}
+
+.conteudo1 img{
+	position: relative;
+	top: 5px;
+	left: 20px;
+}
+
+.conteudo2 {
+	width: 640px;
+	position: relative;
+	top: 10px;
+	left: 20px; 
+}
+
+.conteudo2 a{
+	color: #FFA500;
+	text-decoration: none;
+}
+
+.conteudo a:hover{
+	text-decoration: underline;
+}
+
+/* Formatação das divs lateral1 */
+
+.lateral1{
+	background-color: #FFFFFF;
+	width: 240px;
+	height: 236px;
+	position: relative;
+	left: 710px;
+	bottom: 1245px;
+}
+
+.lateral1 h3{
+	background-color: #C0C0C0;
+	color: #696969;
+	width: 210px;
+	margin-top: -5px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+
+.lateral1 p{
+	position: relative;
+	left: 17px;
+}
+
+.lateral1 a{
+	position: relative;
+	top: -14px;
+	left: 17px;
+	color: #FFA500;
+	text-decoration: none;
+}
+
+.lateral1 hr{
+	width: 212px;
+}
+
+/* Formatação das divs lateral2 */
+
+.lateral2{
+	background-color: #FFFFFF;
+	width: 240px;
+	height: 200px;
+	position: relative;
+	left: 710px;
+	bottom: 1230px;
+}
+
+.lateral2 h3{
+	background-color: #C0C0C0;
+	color: #696969;
+	width: 210px;
+	margin-top: -5px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	padding: 5px;
+}
+
+.lateral2 a{
+	color: #FFA500;
+	text-decoration: none;
+	margin-left: -6px;
+}
+
+/* Formatção do rodapé */
+
+#rodape{
+	position: relative;
+	bottom: 400px;
+	background-color: #A9A9A9;
+	width: 950px;
+	height: 50px;
+	margin-bottom: 10px;
+}
+
+#rodape h3{
+	text-align: center;
+	padding-top: 12px;
+}
+
